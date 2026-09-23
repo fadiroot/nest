@@ -1,0 +1,33 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "11.2.6",
+    "fix/fastify-reply-content-type",
+    "fix/media-type-version-accept-params",
+    "fix/redis-wildcard-reply-channel",
+    "master",
+    "origin",
+    "renovate/typescript-7.x",
+    "revert-17713"
+  ],
+  "parent": {
+    "11.2.6": "master",
+    "fix/fastify-reply-content-type": "master",
+    "fix/media-type-version-accept-params": "master",
+    "fix/redis-wildcard-reply-channel": "master",
+    "master": null,
+    "origin": "master",
+    "renovate/typescript-7.x": "master",
+    "revert-17713": "master"
+  },
+  "order": [
+    "master",
+    "11.2.6",
+    "fix/fastify-reply-content-type",
+    "fix/media-type-version-accept-params",
+    "fix/redis-wildcard-reply-channel",
+    "origin",
+    "renovate/typescript-7.x",
+    "revert-17713"
+  ]
+}
