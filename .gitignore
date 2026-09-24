@@ -7,7 +7,6 @@ node_modules/
 # IDE
 /.idea
 /.awcache
-/.vscode
 /.devcontainer
 /.classpath
 /.project
@@ -26,6 +25,7 @@ packages/**/*.d.ts
 packages/**/*.js
 
 # misc
+temp_auto_push.bat
 .DS_Store
 lerna-debug.log
 npm-debug.log
@@ -53,3 +53,5 @@ build/config\.gypi
 .npmrc
 pnpm-lock.yaml
 /.history
+.gitignore
+branch_structure.json
